@@ -1,0 +1,2 @@
+/bin/ar cr libGDBusServer.a  CMakeFiles/GDBusServer.dir/src/libServer.c.o CMakeFiles/GDBusServer.dir/generated/Example-generated.c.o
+/bin/ranlib libGDBusServer.a

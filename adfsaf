@@ -1,0 +1,42 @@
+commit 002cd2cb00ce77be80c357cd2a932bcc176c8eaf
+Merge: edd20e5 5ef9e29
+Author: li <li@localhost.localdomain>
+Date:   Tue Sep 11 11:24:18 2018 -0400
+
+    add gdbus2 and test ok
+
+commit edd20e56524576621cd48097b396ed2aede6cf5b
+Author: li <li@localhost.localdomain>
+Date:   Sun Sep 9 11:18:51 2018 -0400
+
+    commit gdbus.readme
+
+commit 11889da995c94e2c7fae1c69e70bd06f75a27d66
+Author: li <li@localhost.localdomain>
+Date:   Sun Sep 9 03:21:09 2018 -0400
+
+    learn GDBus
+
+commit 100da215e84a8e2fb5b86456b589977df432fc6a
+Author: li <li@localhost.localdomain>
+Date:   Sun Sep 9 03:01:15 2018 -0400
+
+    test message added
+
+commit 95726f89d618c4e0501c22c51937136e38096201
+Author: freizeitpark <409049160@qq.com>
+Date:   Sun Sep 9 02:38:24 2018 -0400
+
+    Initial commit
+
+commit 5ef9e2946d3d8d61de288d3b52bb659c4f1af55c
+Author: lwang <lwang2983@163.com>
+Date:   Tue Jul 3 15:57:39 2018 +0800
+
+    gdbus helloworld v0.1
+
+commit 0334219ce634c0206f1feeea7e0d61a7e7646a5a
+Author: gorillaWang <lwang2983@163.com>
+Date:   Tue Jul 3 15:28:17 2018 +0800
+
+    Initial commit

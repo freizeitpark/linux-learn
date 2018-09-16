@@ -1,0 +1,1 @@
+/bin/cc      CMakeFiles/SrvExample.dir/src/SrvExample.c.o  -o SrvExample  -L/home/li/git_linux_lean/project/build -rdynamic libGDBusServer.a -lpthread -lgio-2.0 -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -Wl,-rpath,/home/li/git_linux_lean/project/build 

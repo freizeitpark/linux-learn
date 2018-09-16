@@ -1,0 +1,2 @@
+/bin/ar cr libGDBusClient.a  CMakeFiles/GDBusClient.dir/src/libClient.c.o CMakeFiles/GDBusClient.dir/generated/Example-generated.c.o
+/bin/ranlib libGDBusClient.a

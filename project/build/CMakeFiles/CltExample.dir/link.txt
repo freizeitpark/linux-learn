@@ -1,0 +1,1 @@
+/bin/cc      CMakeFiles/CltExample.dir/src/CltExample.c.o  -o CltExample  -L/home/li/git_linux_lean/project/build -rdynamic libGDBusClient.a -lpthread -lgio-2.0 -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -Wl,-rpath,/home/li/git_linux_lean/project/build 

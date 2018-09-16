@@ -1,0 +1,4 @@
+/home/li/git_linux_lean/project/build/CMakeFiles/CltExample.dir
+/home/li/git_linux_lean/project/build/CMakeFiles/GDBusClient.dir
+/home/li/git_linux_lean/project/build/CMakeFiles/GDBusServer.dir
+/home/li/git_linux_lean/project/build/CMakeFiles/SrvExample.dir
